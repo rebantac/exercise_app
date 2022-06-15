@@ -20,7 +20,7 @@ const Footer = () => {
 
           <a href='https://www.linkedin.com/in/rebanta-chakraborty2002/'><AiFillLinkedin /></a>
 
-          <a href='https://github.com/rebantac'><AiFillGithub /></a>
+          <a href='https://github.com/rebantac/exercise_app'><AiFillGithub /></a>
         </p>
       </Stack>
     </Box>
